@@ -177,6 +177,11 @@ nav {
         font-size: 0.9rem;
     }
 }
+.feature-icon {
+    width: 100px; 
+    height: auto; 
+}
+
 
 
 /* Testimonials Section */
